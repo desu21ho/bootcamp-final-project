@@ -115,4 +115,9 @@ The findings highlight that:
 ---
 
 ## 🚀 Project Structure
+bootcamp-final-project/
+│
+├──final-project(1).ipynb 
+├── ethiopia_agriculture_dataset.xlsx
+├── README.md
 

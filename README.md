@@ -107,7 +107,6 @@ The findings highlight that:
 ## 🛠️ Tools & Technologies
 - Python
 - Pandas
-- NumPy
 - SciPy
 - Jupyter Notebook / Kaggle
 - GitHub
